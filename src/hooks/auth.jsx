@@ -62,7 +62,6 @@ function AuthProvider({ children }){
         }
     }
 
-
     useEffect(() => {
         const token = localStorage.getItem("@importantnotes:token")
         const user = localStorage.getItem("@importantnotes:user")
