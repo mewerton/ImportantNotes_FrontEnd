@@ -75,7 +75,6 @@ function AuthProvider({ children }){
                 user: JSON.parse(user)
             })
         }
-
     }, [])
 
     return(
