@@ -12,7 +12,6 @@ import { ButtonText } from "../../components/ButtonText"
 
 import { api } from '../../services/api'
 
-
 import { Container, Form } from "./styles"
 
 export function New(){
