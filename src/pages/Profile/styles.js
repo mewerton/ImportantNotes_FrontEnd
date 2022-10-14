@@ -75,7 +75,6 @@ export const Avatar = styled.div`
         }
 
 
-
     }
    
 `
