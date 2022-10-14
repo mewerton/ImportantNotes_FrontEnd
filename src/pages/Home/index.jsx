@@ -26,7 +26,6 @@ export function Home(){
 
     const navigate = useNavigate()
   
-
     function handleTagSelected(tagName){
         if(tagName === "all"){
             return setTagsSelected([])
