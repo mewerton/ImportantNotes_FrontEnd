@@ -15,7 +15,7 @@
 
 ## 💻 Sobre:
 
-A aplicação que desenvolvida cria notas com observações sobre algum tema desejado pelo usuário, sendo um bloco de notas digital onde o usuário poderá encontrar facilmente qualquer tema, seja escolhendo pelas Tags ou pesquisando pelo Título.
+A aplicação desenvolvida cria notas com observações sobre algum tema desejado pelo usuário, sendo um bloco de notas digital onde o usuário poderá encontrar facilmente qualquer tema, seja escolhendo pelas Tags ou pesquisando pelo Título.
 
 Neste desafio foram abordados os seguintes temas:
 
